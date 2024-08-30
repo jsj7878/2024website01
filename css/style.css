@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+:root{
+    --main-color-1:#eee;
+}
+
+.container{
+    width: 1380px;
+    margin: 0 auto;
+    position: relative;
+}
+
+/* header */
+/* visual */
+/* sec1st */
+/* footer */
